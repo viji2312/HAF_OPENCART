@@ -1,0 +1,13 @@
+C:\automation_projects\HAF_OPENCART\src\test\java\pageObjects\AccountRegistrationPage.java
+C:\automation_projects\HAF_OPENCART\src\test\java\pageObjects\BasePage.java
+C:\automation_projects\HAF_OPENCART\src\test\java\pageObjects\HomePage.java
+C:\automation_projects\HAF_OPENCART\src\test\java\pageObjects\LoginPage.java
+C:\automation_projects\HAF_OPENCART\src\test\java\pageObjects\MyAccountPage.java
+C:\automation_projects\HAF_OPENCART\src\test\java\testBase\baseClass.java
+C:\automation_projects\HAF_OPENCART\src\test\java\testCases\baseClass.java
+C:\automation_projects\HAF_OPENCART\src\test\java\testCases\TC_001_AccountRegistrationTest.java
+C:\automation_projects\HAF_OPENCART\src\test\java\testCases\TC_002_LoginDDT.java
+C:\automation_projects\HAF_OPENCART\src\test\java\testCases\TC_002_LoginTest.java
+C:\automation_projects\HAF_OPENCART\src\test\java\utilities\DataProviders.java
+C:\automation_projects\HAF_OPENCART\src\test\java\utilities\Excelutility.java
+C:\automation_projects\HAF_OPENCART\src\test\java\utilities\ExtentReportManager.java
