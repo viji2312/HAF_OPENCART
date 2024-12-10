@@ -1,1 +1,5 @@
 this is sample file...
+after making changes to pull file to commit and push to github repository
+first git add -A
+git commit -m "third commit"
+git push origin master
